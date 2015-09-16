@@ -1,0 +1,7 @@
+#section1 {
+    /*height: 200px; */
+    transition: all 1s;
+}
+#section1.big {
+    height: 1000px;
+}
